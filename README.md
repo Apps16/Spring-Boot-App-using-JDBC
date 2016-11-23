@@ -24,6 +24,7 @@ public class DemoApplication {
 }
 
 ```
+The H2 database is taken as default (configuration file is not required in this case), so just we need to give its dependencies in the pom file
 
 Add the following dependencies to your POM file
 
